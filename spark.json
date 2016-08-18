@@ -1,0 +1,7 @@
+{ 
+   "name": "PN532_Elechouse", 
+   "author": "Elechouse", 
+   "license": "MIT (whichever is stated in README file)", 
+   "version": "0.0.1", 
+   "description": "This is an Arduino library for PN532 to use NFC technology. It's based on Adafruit_NFCShield_I2C , improved by Seeed Studio, added HSU(High Speed Uart) driver by Elechouse." 
+ } 
